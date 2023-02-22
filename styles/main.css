@@ -1,0 +1,35 @@
+body{
+    color:red;
+    font-family: chiller;
+    background: linear-gradient(to right,#030303,red);
+}
+li.item{
+    font-size: 40px;
+    margin-left: 20px;
+    display: inline;
+    text-shadow: 1px 1px white;
+}
+
+li.item a{
+    color: red;
+    text-decoration: none;
+}
+
+li.item a:hover{
+    letter-spacing: 5px;
+    color: blue;
+}
+input{
+
+    display: block;
+    margin:5px;
+    padding: 5px;
+    border-radius: 5px;
+    border:none
+}
+
+.home{
+    background: pink;
+    border-radius: 5px;
+    padding: 6px;
+}
